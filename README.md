@@ -1,2 +1,2 @@
 # First-Language-Model
-My first Language model 
+Journey from a simple single layer perceptron to the modern Transformers! 
